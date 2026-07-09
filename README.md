@@ -67,5 +67,6 @@ Become a Data Engineer by building production-ready data pipelines and big data 
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/bashar-khaled-47bb17214/
+- Email: khaledbashar308@gmail.com
+
