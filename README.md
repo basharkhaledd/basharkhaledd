@@ -4,7 +4,7 @@
 
 Java Backend Engineer with **5+ years of professional experience** building enterprise backend systems and scalable REST APIs using Java, Spring Boot, Spring Security, Hibernate/JPA, Oracle, PostgreSQL, and MySQL.
 
-Recently expanded into **AI Engineering and Data** through real-world projects, including Doctor Food — an AI-powered nutrition application built with Python, FastAPI, Pandas, NumPy, PostgreSQL, Groq, Vision AI, Langfuse, Docker, and Render.
+Recently expanded into **AI Engineering and Data** through real-world projects, including Doctor Food — an AI-powered nutrition application built with Python, FastAPI, Pandas, NumPy, PostgreSQL, Groq, Vision AI, **RAG, AI Agents**, Langfuse, Docker, and Render.
 
 ---
 
@@ -13,6 +13,7 @@ Recently expanded into **AI Engineering and Data** through real-world projects, 
 - 💼 Java Backend Engineer with 5+ years of professional experience
 - 🤖 Building AI-powered applications and integrating LLM/Vision AI APIs
 - 📊 Hands-on experience with Python, Pandas, NumPy, and Data Analysis
+- 🧠 Experience with **Retrieval-Augmented Generation (RAG) and AI Agents** through Doctor Food
 - 🧠 Interested in AI Engineering, Data Engineering, and intelligent backend systems
 - ☁️ Experience with Docker, CI/CD, Azure DevOps, and cloud deployment
 - 📍 Abu Dhabi, UAE
@@ -55,6 +56,8 @@ Recently expanded into **AI Engineering and Data** through real-world projects, 
 - Multimodal AI
 - LLM Integration
 - Generative AI
+- **Retrieval-Augmented Generation (RAG)**
+- **AI Agents**
 - Prompt Engineering
 - Groq
 - Langfuse
@@ -102,7 +105,7 @@ An AI-powered nutrition application that analyzes food images and extracts struc
 
 **Technologies:**
 
-`Python` `FastAPI` `PostgreSQL` `Pandas` `NumPy` `Groq` `Vision AI` `Langfuse` `Docker` `Render`
+`Python` `FastAPI` `PostgreSQL` `Pandas` `NumPy` `Groq` `Vision AI` `RAG` `AI Agents` `Langfuse` `Docker` `Render`
 
 ### Key Features
 
@@ -111,6 +114,8 @@ An AI-powered nutrition application that analyzes food images and extracts struc
 - 🍽️ Food identification and portion estimation
 - 📊 Data analysis and preprocessing using Python, Pandas, and NumPy
 - 🧠 LLM prompt engineering and structured AI responses
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agent workflows for nutrition-related tasks
 - 🔍 LLM observability and tracing using Langfuse
 - 🌍 Arabic / English food-name processing
 - 🗄️ PostgreSQL-based nutrition data
